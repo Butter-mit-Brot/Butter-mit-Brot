@@ -5,7 +5,7 @@
   👋I'm Max Wruß
 </h1>
 
-<img align="right" alt="Hello World" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhpemZnNG9ncXRlYTBhM2NjNGhxODB1YXE1aGFvc3c1bGtnOGRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
+<img align="right" alt="Hello World" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhpemZnNG9ncXRlYTBhM2NjNGhxODB1YXE1aGFvc3c1bGtnOGRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="400em">
 
 <h3>PROFILE VIEWS</h3>
 <div>
@@ -27,8 +27,6 @@
   <li>🛡️ Ethical hacking & cybersecurity</li>
   <li>🔌 DIY electronics & embedded systems</li>
 </ul>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 <h2 align="center">
 My Favorite Projects!
